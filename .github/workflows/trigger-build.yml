@@ -18,7 +18,7 @@ jobs:
         run: |
           # Set the required variables
           repo_owner="ichitenfont"
-          repo_name="blog"
+          repo_name="ichitenfont.github.io"
           event_type="trigger-workflow"
   
           curl -L \
